@@ -1,0 +1,11 @@
+one:
+  name: MyString
+  detail: MyString
+  price: 9.99
+  stock: 1
+
+two:
+  name: MyString
+  detail: MyString
+  price: 9.99
+  stock: 1
